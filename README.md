@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrsawy
+- 👀 I’m interested in web ingeneral .
+- 🌱 I’m currently learning React & node js
+- 💞️ I’m looking to collaborate on any web project
+- 📫 How to reach me 01275881277
