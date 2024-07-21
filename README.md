@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrsawy
+- 👋 Hi There  , 
 - 👀 I’m interested in web ingeneral .
-- 🌱  my stack => React , node js . react native , python/django , JS ,TS
+- 🌱  my stack => React , node js . react native , python/django , PHP , Wordpress , JS ,TS , Next .
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me mrsawy1@gmail.com
